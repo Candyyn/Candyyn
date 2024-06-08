@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Emil Magnusson</h1>
-<h3 align="center">A passionate fullstack engineer doing what the addrenalin pulls me to</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=candyyn&label=Profile%20views&color=0e75b6&style=flat" alt="candyyn" /> </p>
-
-- 🌱 I’m currently learning **Cypress**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
